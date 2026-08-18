@@ -18,6 +18,18 @@
       "sourceType": "github",
       "skillPath": "skills/_jutsu/swiftui-motion/SKILL.md",
       "computedHash": "90dfaee9dc5fc026f82016171b4fa0c6dae672045350df53bae3a6541df2c16a"
+    },
+    "tauri-development": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "tauri-development/SKILL.md",
+      "computedHash": "0edb30d9211bebab653e1ced97835c77f5efd7bfe2922550ec52c47a6fa09ff9"
+    },
+    "tauri-v2": {
+      "source": "nodnarbnitram/claude-code-extensions",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/tauri-v2/SKILL.md",
+      "computedHash": "377c61c46cf48c35b942042bc8abb9a039049a47f37d7f12b4f491d012777490"
     }
   }
 }
